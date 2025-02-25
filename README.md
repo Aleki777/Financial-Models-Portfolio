@@ -24,6 +24,7 @@ This repository contains financial DCF models built to make simple intrinsic sto
 
 ---
 ### 🔗 Access Models:
-📂 **[Download Excel Models](https://github.com/Aleki777/Financial-Models-Portfolio/tree/main)**  
+📂 **[Download Excel Models](1. KQ MODEL: https://docs.google.com/spreadsheets/d/1gopimmrJbbMfwki5R9l_-3ZVCMM09zI6skjaAIDLcSQ/edit?usp=sharing 
+2. Equity Bank Model: https://docs.google.com/spreadsheets/d/1f6WzkDf-XXq93Idda4Md2HKig9g38s5gLFz2sDODoGY/edit?usp=sharing)**  
 
 For questions or collaboration, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN).  
