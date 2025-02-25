@@ -24,6 +24,6 @@ This repository contains financial DCF models built to make simple intrinsic sto
 
 ---
 ### 🔗 Access Models:
-📂 **[Download Excel Models](https://github.com/YOUR_USERNAME/Financial-Models-Portfolio)**  
+📂 **[Download Excel Models](https://github.com/Aleki777/Financial-Models-Portfolio/tree/main)**  
 
 For questions or collaboration, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN).  
